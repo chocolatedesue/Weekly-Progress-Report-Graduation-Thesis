@@ -1,0 +1,5 @@
+
+key word: fault tolerance, inter-satellite communication, routing algorithm, constellation configuration, numpys
+1. 星座构型调研
+2. 基于分域的路由算法 (针对某种故障进行设计)
+3. numpy 仿真设计
